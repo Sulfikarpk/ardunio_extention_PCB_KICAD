@@ -1,4 +1,4 @@
-# Arduino Extension Board
+# PCB_arduino_extention
 
 ## Project Description
 
