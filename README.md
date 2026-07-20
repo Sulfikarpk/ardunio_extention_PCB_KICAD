@@ -10,15 +10,15 @@ The Arduino Extension Board is a custom PCB designed to simplify electronics pro
 
 ### 3D PCB View
 
-![]()
+![](https://github.com/Sulfikarpk/ardunio_extention_PCB_KICAD/blob/main/PCB_3d_view.jpeg)
 
 ### Schematic
 
-![]()
+![](https://github.com/Sulfikarpk/ardunio_extention_PCB_KICAD/blob/main/Schematic%20_1.jpeg)
 
 ### PCB Layout
 
-![]()
+![](https://github.com/Sulfikarpk/ardunio_extention_PCB_KICAD/blob/main/PCB_layout_iamge.jpeg)
 
 ---
 
