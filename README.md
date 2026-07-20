@@ -28,7 +28,12 @@ The Arduino Extension Board is a custom PCB designed to simplify electronics pro
 
 ## Project Video
 
-*Add project demonstration video here*
+first steup vedio https://youtube.com/shorts/pXfRMu2cfP8?feature=share
+
+Second steup vedio https://youtube.com/shorts/owJSdkUX4ys
+
+final out https://youtube.com/shorts/2djqhgaAtmM?feature=share
+
 
 ---
 
