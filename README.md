@@ -8,21 +8,17 @@ The Arduino Extension Board is a custom PCB designed to simplify electronics pro
 
 ## Project Images
 
-### PCB Layout
+### 3D PCB View
 
-*Add PCB layout image here*
+![]()
 
 ### Schematic
 
-*Add schematic image here*
+![]()
 
-### 3D PCB View
+### PCB Layout
 
-*Add 3D PCB image here*
-
-### Assembled PCB
-
-*Add assembled board image here*
+![]()
 
 ---
 
